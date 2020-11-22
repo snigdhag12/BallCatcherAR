@@ -10,7 +10,7 @@ What's engaging?
 
 ### How to Set-Up?
 
-- Download BallCatcher.apk file from APK folder.
+- Download BallCatcher.apk file from [BallCatcherAPK](https://drive.google.com/file/d/15Ey1vdWoaJt-mokmaaax7-vixqFlMJsE/view?usp=sharing)
 - Install in the required devices.
 - Start a game as a Host. Ask your friends to connect to your IP address. (This is a in progress project, connection interface will be made smoother in the later versions)
 - Voila! See your friends moving in the gaming arena and play with them.
