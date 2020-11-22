@@ -8,10 +8,6 @@ What's engaging?
   - Synchronise your movement with team-mates and win more points.
   - Win power-ups, modify gravity, object mass and other game rules.
 
-### In-Game Experience!
-
-  //add images video link etc
-
 ### How to Set-Up?
 
 - Download BallCatcher.apk file from APK folder.
