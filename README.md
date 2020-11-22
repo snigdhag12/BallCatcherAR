@@ -16,7 +16,7 @@ What's engaging?
 
 - Download BallCatcher.apk file from APK folder.
 - Install in the required devices.
-- Start a game as a Host. Ask your friends to connect to your IP address. (This is a in progress project, connections interface will be made smoother in later versions)
+- Start a game as a Host. Ask your friends to connect to your IP address. (This is a in progress project, connection interface will be made smoother in the later versions)
 - Voila! See your friends moving in the gaming arena and play with them.
 
 ### RoadMap - What's next?
