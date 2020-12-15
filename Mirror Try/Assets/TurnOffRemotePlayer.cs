@@ -46,7 +46,7 @@ public class TurnOffRemotePlayer : NetworkBehaviour
         if (this.isLocalPlayer == true)
         {
             scr.enabled = true;
-            scr.SetPlayerCaption(id +" "+ score2);
+            scr.SetPlayerCaption("Player Number: "+id +"\n Score: "+ score2);
             // scr.SetTitle("MultiPlayer #" + id);
             scr.playernum = id;
         }
@@ -54,7 +54,7 @@ public class TurnOffRemotePlayer : NetworkBehaviour
         {
             // scr.SetPlayerCaption(id);
             scr.enabled = false;
-            scr.SetPlayerCaption(id +" "+ score2);
+            scr.SetPlayerCaption("Player Number: "+id +"\n Score: "+ score2);
             // scr.SetTitle("MultiPlayer #" + id);
         }
     }

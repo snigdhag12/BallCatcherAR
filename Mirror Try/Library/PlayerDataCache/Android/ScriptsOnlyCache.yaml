@@ -1,6 +1,8 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Bonus
+    - Bonus2
     - Coin
     - DynamicJoystick
     - Player
@@ -90,31 +92,35 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12206}
     - Class: 114
-      Script: {instanceID: 13184}
+      Script: {instanceID: 12418}
     - Class: 114
-      Script: {instanceID: 13256}
+      Script: {instanceID: 13186}
     - Class: 114
-      Script: {instanceID: 13392}
+      Script: {instanceID: 13258}
     - Class: 114
-      Script: {instanceID: 13452}
+      Script: {instanceID: 13394}
     - Class: 114
-      Script: {instanceID: 13610}
+      Script: {instanceID: 13436}
     - Class: 114
-      Script: {instanceID: 13644}
+      Script: {instanceID: 13456}
     - Class: 114
-      Script: {instanceID: 13682}
+      Script: {instanceID: 13614}
     - Class: 114
-      Script: {instanceID: 13796}
+      Script: {instanceID: 13648}
     - Class: 114
-      Script: {instanceID: 13884}
+      Script: {instanceID: 13686}
     - Class: 114
-      Script: {instanceID: 13904}
+      Script: {instanceID: 13800}
     - Class: 114
-      Script: {instanceID: 14042}
+      Script: {instanceID: 13888}
     - Class: 114
-      Script: {instanceID: 14196}
+      Script: {instanceID: 13908}
     - Class: 114
-      Script: {instanceID: 14284}
+      Script: {instanceID: 14046}
+    - Class: 114
+      Script: {instanceID: 14200}
+    - Class: 114
+      Script: {instanceID: 14288}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -612,6 +618,12 @@ ScriptsOnlyBuild:
     className: NetworkRigidbody
   - hash:
       serializedVersion: 2
+      Hash: 0aa7f015012a9536c29bbd1f148bf11c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Bonus2
+  - hash:
+      serializedVersion: 2
       Hash: 290afc8da8e459e0b8dc7444bfaf5e35
     assemblyName: Unity.XR.ARFoundation.dll
     namespaceName: UnityEngine.XR.ARFoundation
@@ -970,6 +982,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: TurnOffRemotePlayer
+  - hash:
+      serializedVersion: 2
+      Hash: 6f6a88a01dc1d4b2d2be401bd911487a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Bonus
   - hash:
       serializedVersion: 2
       Hash: 1088b99d0c88ca05dcb48022854c0cd7
@@ -1363,4 +1381,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: E:/SEM5/DIS/ballcatcher_ar2.apk
+  playerPath: E:/SEM5/DIS/Final/WithWalls2.apk

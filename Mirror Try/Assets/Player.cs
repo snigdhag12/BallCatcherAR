@@ -37,6 +37,12 @@ public class Player : MonoBehaviour
             Destroy(other.gameObject);
             score++;
         }
+        else if (other.gameObject.CompareTag("Bonus") )
+        {   
+            Bonus b = other.gameObject.GetComponent<Bonus>(); 
+            b.changeKinematic();
+            Destroy(other.gameObject);
+        }
     }
     // private
     public void SetPlayerCaption(string caption)
